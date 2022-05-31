@@ -1,3 +1,0 @@
-flask
-googleapiclient
-google.api_core.client_options
